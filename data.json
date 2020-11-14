@@ -1,0 +1,122 @@
+[
+    {
+        "firstName": "Петро",
+        "lastName": "Петренко",
+        "university": "ВНЗ_01",
+        "scoreAverage": "6.5"
+    },
+    {
+        "firstName": "Андре",
+        "lastName": "Андренко",
+        "university": "ВНЗ_02",
+        "scoreAverage": "9.5"
+    },
+    {
+        "firstName": "Васел",
+        "lastName": "Василець",
+        "university": "ВНЗ_03",
+        "scoreAverage": "8.5"
+    },
+    {
+        "firstName": "Остап",
+        "lastName": "Остапець",
+        "university": "ВНЗ_01",
+        "scoreAverage": "8.4"
+    },
+    {
+        "firstName": "Ішван",
+        "lastName": "Іваненко",
+        "university": "ВНЗ_05",
+        "scoreAverage": "7.2"
+    },
+    {
+        "firstName": "Роман",
+        "lastName": "Романець",
+        "university": "ВНЗ_01",
+        "scoreAverage": "6.3"
+    },
+    {
+        "firstName": "Павло",
+        "lastName": "Павленко",
+        "university": "ВНЗ_02",
+        "scoreAverage": "5.2"
+    },
+    {
+        "firstName": "Сердж",
+        "lastName": "Сергійко",
+        "university": "ВНЗ_05",
+        "scoreAverage": "5.1"
+    },
+    {
+        "firstName": "Артем",
+        "lastName": "Артимець",
+        "university": "ВНЗ_02",
+        "scoreAverage": "6.6"
+    },
+    {
+        "firstName": "Йосип",
+        "lastName": "Йосипець",
+        "university": "ВНЗ_01",
+        "scoreAverage": "6.9"
+    },
+    {
+        "firstName": "Ксеня",
+        "lastName": "Петренко",
+        "university": "ВНЗ_02",
+        "scoreAverage": "4.0"
+    },
+    {
+        "firstName": "Марія",
+        "lastName": "Андренко",
+        "university": "ВНЗ_03",
+        "scoreAverage": "7.5"
+    },
+    {
+        "firstName": "Марта",
+        "lastName": "Василець",
+        "university": "ВНЗ_04",
+        "scoreAverage": "8.6"
+    },
+    {
+        "firstName": "Надія",
+        "lastName": "Остапець",
+        "university": "ВНЗ_03",
+        "scoreAverage": "9.4"
+    },
+    {
+        "firstName": "Настя",
+        "lastName": "Іваненко",
+        "university": "ВНЗ_05",
+        "scoreAverage": "9.1"
+    },
+    {
+        "firstName": "Ольга",
+        "lastName": "Романець",
+        "university": "ВНЗ_02",
+        "scoreAverage": "6.2"
+    },
+    {
+        "firstName": "Жанна",
+        "lastName": "Павленко",
+        "university": "ВНЗ_04",
+        "scoreAverage": "7.6"
+    },
+    {
+        "firstName": "Ірина",
+        "lastName": "Сергійко",
+        "university": "ВНЗ_03",
+        "scoreAverage": "9.3"
+    },
+    {
+        "firstName": "Стефа",
+        "lastName": "Артимець",
+        "university": "ВНЗ_01",
+        "scoreAverage": "8.9"
+    },
+    {
+        "firstName": "Уляна",
+        "lastName": "Йосипець",
+        "university": "ВНЗ_01",
+        "scoreAverage": "7.5"
+    }
+]
